@@ -1,0 +1,17 @@
+{
+  "name": "authtdd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "pg": "^7.9.0",
+    "sequelize": "^5.1.0"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^5.4.0"
+  }
+}
